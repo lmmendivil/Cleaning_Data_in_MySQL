@@ -7,4 +7,6 @@ Refer to the MySQL V1 file in this repository to see the queries that I used.
 Thank you for your time
 
 Best!
+
+
 Luis
